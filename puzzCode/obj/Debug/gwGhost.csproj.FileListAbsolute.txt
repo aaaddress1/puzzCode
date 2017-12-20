@@ -1,0 +1,13 @@
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Debug\gwGhost.csprojResolveAssemblyReference.cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Debug\gwGhost.UI.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Debug\gwGhost.Properties.Resources.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Debug\gwGhost.csproj.GenerateResource.Cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Debug\gwGhost.csproj.CoreCompileInputs.cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Debug\gwGhost.exe
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Debug\gwGhost.pdb
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Debug\gwGhost.exe
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Debug\gwGhost.pdb
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Debug\FastColoredTextBox.dll
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Debug\FastColoredTextBox.xml
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Debug\gwGhost.config.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Debug\gwGhost.exe.config

@@ -1,0 +1,14 @@
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\gwGhost.exe.config
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\gwGhost.exe
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\gwGhost.pdb
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\FastColoredTextBox.dll
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\FastColoredTextBox.xml
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.config.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.UI.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.Properties.Resources.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.csproj.GenerateResource.Cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.csproj.CoreCompileInputs.cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.exe
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.pdb
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.csprojResolveAssemblyReference.cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\gwGhost.aboutUI.resources

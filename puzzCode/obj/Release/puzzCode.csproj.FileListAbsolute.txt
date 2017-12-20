@@ -1,0 +1,14 @@
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\FastColoredTextBox.dll
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\FastColoredTextBox.xml
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.csproj.GenerateResource.Cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.csproj.CoreCompileInputs.cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.csprojResolveAssemblyReference.cache
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\puzzCode.exe.config
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\puzzCode.exe
+C:\Users\exploit\Desktop\gwGhost\gwGhost\bin\Release\puzzCode.pdb
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.exe
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.pdb
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.aboutUI.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.config.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.UI.resources
+C:\Users\exploit\Desktop\gwGhost\gwGhost\obj\Release\puzzCode.Properties.Resources.resources

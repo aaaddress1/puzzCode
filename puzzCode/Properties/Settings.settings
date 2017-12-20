@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="gwGhost.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="gwPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\MinGW\Bin\</Value>
+    </Setting>
+    <Setting Name="linkArg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-mwindows -static -Wl,--strip-all  -Wl,--image-base=0xF00000</Value>
+    </Setting>
+    <Setting Name="clArg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-Os -O3 -fno-ident</Value>
+    </Setting>
+    <Setting Name="obfusPcnt" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="insrtJunk" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="cnfseCode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="clnAftCompile" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
