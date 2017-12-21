@@ -56,7 +56,7 @@ puzzCode only support 32bit Windows PE compiling currenly.
 
 ![螢幕快照 2017-12-21 上午5.36.29.png](resources/454D56B8EF05426D6AE99B82B2F8A166.png)
 
-First run, your need to set the path of MinGW on your Windows environment. Besides that, you can set compiler arguments, linker arguments, and obfuscated degree (from 0 to 100), etc.
+First run, you must set the path of MinGW on your Windows environment. Besides that, you can set compiler arguments, linker arguments, and obfuscated degree (from 0 to 100), etc.
 
 ![螢幕快照 2017-12-21 上午6.17.08.png](resources/89EFD46DE61B09F2793982E124C535B4.png)
 ![螢幕快照 2017-12-21 上午6.26.18.png](resources/D6DD734B6E8B5323148B0F707C5053B8.png)
