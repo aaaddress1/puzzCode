@@ -56,15 +56,19 @@ puzzCode only support 32bit Windows PE compiling currenly.
 
 ![螢幕快照 2017-12-21 上午5.36.29.png](resources/454D56B8EF05426D6AE99B82B2F8A166.png)
 
-First run, you must set the path of MinGW on your Windows environment. Besides that, you can set compiler arguments, linker arguments, and obfuscated degree (from 0 to 100), etc.
+You have to set the MinGW path on your Windows environment for the first time running.
+Besides,  compiler arguments, linker arguments, and obfuscated degree (from 0 to 100) are user adjustable.
 
 ![螢幕快照 2017-12-21 上午6.17.08.png](resources/89EFD46DE61B09F2793982E124C535B4.png)
 ![螢幕快照 2017-12-21 上午6.26.18.png](resources/D6DD734B6E8B5323148B0F707C5053B8.png)
-Finish config, you can coding in puzzCode, and click the "Compile" button, and you can get the exe file besides the source code file.
+
+After you setup the configurations, you are able to coding freely in puzzCode.
+Simply hit the "Compile" button, the .exe file will be generated at the same path of your source code file.
 
 ### Snippet
 ![螢幕快照 2017-12-21 上午6.27.23.png](resources/7468CD0110210F9087DEB8A3FE84F929.png)
-Some backdoor or program is really useful, but you don't have source code? That's Ok, your can use the `Snippet > RunPE` feature. 
+
+Some backdoors and programs are really useful, but you don't have that source code? That's Ok, your can use the `Snippet > RunPE` feature.
 
 ![螢幕快照 2017-12-21 上午6.29.06.png](resources/B123B443F08DF005A368FA6FD60B8EC9.png)
 
