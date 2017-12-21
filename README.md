@@ -31,7 +31,7 @@ void play(void) {
 
 Normal Graph Overview (IDA)
 
-It's pretty easy to understand right?
+It's pretty easy to understand, right?
 
 ![螢幕快照 2017-12-21 上午5.44.18.png](resources/F3D0B8CD285ECAD326C72873AA2D0146.png)
 
