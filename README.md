@@ -45,7 +45,7 @@ Graph Overview, Compiled via puzzCode (IDA)
 
 ## Quick Run
 
-puzzCode currenly support only for compiling 32bit Windows PE.
+puzzCode only support 32bit Windows PE compiling currenly.
 
 1. Install MinGW on your windows environment:
   https://sourceforge.net/projects/mingw/files/Installer
