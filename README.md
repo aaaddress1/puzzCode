@@ -30,10 +30,15 @@ void play(void) {
 ```
 
 Normal Graph Overview (IDA)
-It's really simple to understand yet?
+
+It's pretty easy to understand right?
+
 ![螢幕快照 2017-12-21 上午5.44.18.png](resources/F3D0B8CD285ECAD326C72873AA2D0146.png)
 
 Graph Overview, Compiled via puzzCode (IDA)
+
+... How about now :) ?
+
 ![螢幕快照 2017-12-21 上午6.16.17.png](resources/94BA0F1EF7491E9BE5F71BBE80881634.png)
 
 ---
