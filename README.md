@@ -72,7 +72,7 @@ Some backdoors and programs are really useful, but you don't have that source co
 
 ![螢幕快照 2017-12-21 上午6.29.06.png](resources/B123B443F08DF005A368FA6FD60B8EC9.png)
 
-puzzCode can pack the program you selected, and generate source code, **Just Compile, and Get New Born Backdoooooor!!**
+puzzCode packs the program you selected, and generate source code, **Just Compile, and Get New Born Backdoooooor!!**
 
 *RunPE refer: https://github.com/Zer0Mem0ry/RunPE/blob/master/RunPE.cpp*
 
