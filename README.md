@@ -6,7 +6,7 @@
 
 puzzCode is a simple compiler based on mingw, written in C# to build uncrackable windows application against analysis tools e.g. IDA, Ollydbg, x64dbg, etc.
 
-puzzCode is based on MinGW to compile C/C++ source codes to assembly script. Ｉn addition, inserting some junk between every assembly instruction, turning orginal instruction into other obfuscated codes, and cuting each function into countless pieces! 
+puzzCode is based on MinGW to compile C/C++ source codes to assembly script. In addition, inserting some junk between every assembly instruction, turning orginal instruction into other obfuscated codes, and cuting each function into countless pieces! 
 
 **The most important thing is ... exe file compiled by the same code will be different for Anti-Virus as a new born program!!**
 
