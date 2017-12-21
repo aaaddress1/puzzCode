@@ -50,7 +50,7 @@ puzzCode only support 32bit Windows PE compiling currenly.
 1. Install MinGW on your windows environment:
   https://sourceforge.net/projects/mingw/files/Installer
 
-2. Download from [Release Page](https://github.com/aaaddress1/puzzCode/releases), Or clone this project, compile it with Visual C# 2017, you'll get puzzCode software.
+2. Download from [Release Page](https://github.com/aaaddress1/puzzCode/releases), or clone this project, compile it with Visual C# 2017, you'll get puzzCode software.
 
 ## Usage
 
