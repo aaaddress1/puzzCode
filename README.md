@@ -36,6 +36,7 @@ It's pretty easy to understand, right?
 
 ![螢幕快照 2017-12-21 上午5.44.18.png](resources/F3D0B8CD285ECAD326C72873AA2D0146.png)
 
+
 ### Graph Overview, Compiled via puzzCode (IDA)
 
 ... How about now? :)
@@ -55,8 +56,8 @@ It's pretty easy to understand, right?
 
 puzzCode only support 32bit Windows PE compiling currently.
 
-
 1. Install MinGW on your windows environment: https://sourceforge.net/projects/mingw/files/Installer
+
 2. Download from [Release Page](https://github.com/aaaddress1/puzzCode/releases), or clone this project, compile it with Visual C# 2017, you'll get puzzCode software.
 
 ## Usage
