@@ -1,6 +1,9 @@
+![](resources/puzzle.png)
+
 # puzzCode(Puzzle Code)
 
 ![螢幕快照 2017-12-21 上午6.21.38.png](resources/02666CA47DBF6E48FF90A7D53556B865.png)
+
 
 ## Description
 
@@ -82,4 +85,3 @@ Some backdoors and programs are really useful but what if you don't have that so
 puzzCode packs the program you selected, and generates the source code. **Just compile, and get a new undetectable Backdoooooor!!**
 
 *RunPE refer: https://github.com/Zer0Mem0ry/RunPE/blob/master/RunPE.cpp*
-
